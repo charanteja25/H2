@@ -1,0 +1,14 @@
+[
+  {
+    "ID": 1,
+    "StationStatus": "In Operation"
+  },
+  {
+    "ID": 2,
+    "StationStatus": "Planned"
+  },
+  {
+    "ID": 3,
+    "StationStatus": "Old Projects"
+  }
+]

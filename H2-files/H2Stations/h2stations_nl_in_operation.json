@@ -1,0 +1,252 @@
+[
+  {
+    "id": 3002,
+    "station_name": "Holthausen Amsterdam",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 52.40631,
+    "longitude": 4.75017,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 1907,
+    "station_name": "Green Planet Pesse",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 52.773998,
+    "longitude": 6.445285,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 1825,
+    "station_name": "PitPoint Breda",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 51.5833802099935,
+    "longitude": 4.8277857164573,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 2418,
+    "station_name": "TEAL Mobility Veldhoven",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 51.4119298846521,
+    "longitude": 5.42765052513122,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 2417,
+    "station_name": "Doetinchem",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 51.9461940265963,
+    "longitude": 6.28422502785291,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 2234,
+    "station_name": "OrangeGas Schiphol",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 52.27063,
+    "longitude": 4.69562,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 2114,
+    "station_name": "GP Groot Alkmaar",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 52.59763,
+    "longitude": 4.75112,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 2116,
+    "station_name": "Dordrecht",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 51.8040891995467,
+    "longitude": 4.64644290318675,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 1789,
+    "station_name": "Holthausen H2 Refuelling Station Groningen",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 53.20937,
+    "longitude": 6.59604,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 1811,
+    "station_name": "PitPoint Arnhem",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 51.9711962250993,
+    "longitude": 5.94648907309493,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 1897,
+    "station_name": "H2Benelux Rotterdam",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 51.9542138087077,
+    "longitude": 4.56282087320264,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 1898,
+    "station_name": "Orangegas -BP Kerkhof",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 52.071385,
+    "longitude": 4.335384,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 1899,
+    "station_name": "Oude Tonge",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 51.7004465547134,
+    "longitude": 4.20452652910372,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 1901,
+    "station_name": "Roosendaal",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 51.5582038393413,
+    "longitude": 4.45372967041504,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 1904,
+    "station_name": "Shell Emmen",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 52.7539051575681,
+    "longitude": 6.93808068218034,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 1970,
+    "station_name": "OrangeGas Amsterdam",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 52.4000138138894,
+    "longitude": 4.79499103280493,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 2118,
+    "station_name": "Nieuwegein HySolar/ Greenpoint",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 52.027669,
+    "longitude": 5.105234,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 60,
+    "station_name": "TEAL Mobility Rotterdam Station",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 51.86449,
+    "longitude": 4.436662,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 2346,
+    "station_name": "Shell Bus station",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 53.20902,
+    "longitude": 6.54289,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 3043,
+    "station_name": "BP AVIA Vollenhoven",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 51.45456,
+    "longitude": 5.52257,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 2686,
+    "station_name": "Vissers Energy Horst",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 51.44075,
+    "longitude": 6.0489,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 2158,
+    "station_name": "Fountain Fuel Amersfoort",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 52.1639302208094,
+    "longitude": 5.4241763023984,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 2164,
+    "station_name": "Bus station South Holland",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 51.814116,
+    "longitude": 4.499458,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 2419,
+    "station_name": "DreamH2aul",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 52.23091299,
+    "longitude": 6.2116534,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  },
+  {
+    "id": 3044,
+    "station_name": "Avia Kolhorn",
+    "country": "NL",
+    "status_id": 1,
+    "status_name": "In Operation",
+    "latitude": 52.79241,
+    "longitude": 4.91027,
+    "snapshot_ts_utc": "2026-02-22T20:26:24Z"
+  }
+]
